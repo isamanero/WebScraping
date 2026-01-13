@@ -11,7 +11,7 @@ Bienvenid@ a este repositorio de **web scraping**, desarrollado **exclusivamente
    - Permite realizar scrapes en diferentes fechas para **comparar precios** y analizar **tendencias temporales**.
 
 2. **🐟 Scraping de zonas FAO de pesca**  
-   - Asocia las zonas FAO numéricas de un CSV con sus correspondientes **zonas marinas** (ej. FAO 27 → Atlántico Norte).  
+   - Asocia las zonas FAO numéricas de un CSV con sus correspondientes **zonas marinas** (ej. FAO 27 → Atlántico Noroeste).  
    - Ejemplo de **enriquecimiento de datos** añadiendo información contextual.
 
 3. **🎬 Scraping de películas de Pixar**  
