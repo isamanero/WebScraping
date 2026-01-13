@@ -22,3 +22,40 @@ Bienvenid@ a este repositorio de **web scraping**, desarrollado **exclusivamente
 
 ## 📂 Estructura del repositorio
 
+├─ files/ ← CSVs originales y usados en los notebooks
+
+├─ img/ ← Imágenes usadas (IA) de forma estética en los notebooks
+
+├─ Notebooks/ ← Tres notebooks:
+
+   │ ├─ WS_smartphones.ipynb
+   
+   │ ├─ WS_FAO.ipynb
+   
+   │ └─ WS_Pixar.ipynb
+└─ README.md ← Este archivo
+
+---
+
+## ⚙️ Librerías utilizadas
+
+- **Selenium** 🚀: Ideal para interactuar con páginas dinámicas, hacer clicks, scroll y navegación avanzada.  
+- **BeautifulSoup** 🍵: Ideal para parsear HTML estático y extraer información de forma rápida y sencilla.  
+
+**Mini-esquema de uso:**
+
+| Librería       | Mejor uso | Ventaja principal                        |
+|----------------|-----------|-----------------------------------------|
+| Selenium 🚀    | Páginas dinámicas, JavaScript | Permite simular navegador completo |
+| BeautifulSoup 🍵 | HTML estático                | Rápido y simple para extraer contenido |
+
+---
+
+## ⚠️ Nota importante
+
+Todos los scrapes se realizaron de forma **ética y responsable**, únicamente con **propósitos educativos**.
+---
+
+¡Disfruta explorando el mundo del **web scraping académico**! 🌟
+
+
