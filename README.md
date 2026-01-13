@@ -28,11 +28,11 @@ Bienvenid@ a este repositorio de **web scraping**, desarrollado **exclusivamente
 
 ├─ Notebooks/ ← Tres notebooks:
 
-   │ ├─ WS_smartphones.ipynb
+    ├─ WS_smartphones.ipynb
    
-   │ ├─ WS_FAO.ipynb
+    ├─ WS_FAO.ipynb
    
-   │ └─ WS_Pixar.ipynb
+    └─ WS_Pixar.ipynb
 └─ README.md ← Este archivo
 
 ---
