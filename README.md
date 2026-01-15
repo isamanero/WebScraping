@@ -68,7 +68,7 @@ Para poder ejecutar los notebooks y replicar los ejemplos de este repositorio, e
 
 git clone https://github.com/isamanero/WebScraping.git
 
-cd tu-repositorio
+cd WebScraping
 
 ### 📦 Instalación de dependencias
 
