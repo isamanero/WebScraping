@@ -78,7 +78,9 @@ cd WebScraping
 
 Este proyecto incluye un archivo `requirements.txt` con todas las librerías necesarias.
 
+```bash
 pip install -r requirements.txt
+```
 
 💡 Si usas Jupyter Notebook o VS Code, reinicia el kernel después de la instalación.
 
