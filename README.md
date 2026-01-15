@@ -35,6 +35,7 @@ Bienvenid@ a este repositorio de **web scraping**, desarrollado **exclusivamente
     └─ WS_Pixar.ipynb
 
 ├─ presentacion.pdf ← Breve presentación de contexto de la tutoría
+
 └─ README.md ← Este archivo
 
 ---
