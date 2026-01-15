@@ -66,6 +66,7 @@ Para poder ejecutar los notebooks y replicar los ejemplos de este repositorio, e
 ### 📥 Clonar el repositorio
 
 git clone https://github.com/isamanero/WebScraping.git
+
 cd tu-repositorio
 
 ### 📦 Instalación de dependencias
@@ -78,17 +79,10 @@ pip install -r requirements.txt
 
 ### 📚 Documentación oficial de las librerías
 
-- **Selenium**  
-  [https://www.selenium.dev/documentation/](https://www.selenium.dev/documentation/)
-
-- **webdriver-manager**  
-  [https://github.com/SergeyPirogov/webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager)
-
-- **BeautifulSoup (bs4)**  
-  [https://www.crummy.com/software/BeautifulSoup/bs4/doc/](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-
-- **Pandas**  
-  [https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/)
+- [**Selenium**](https://www.selenium.dev/documentation/)
+- [**webdriver-manager**](https://github.com/SergeyPirogov/webdriver_manager)
+- [**BeautifulSoup (bs4)**](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [**Pandas**](https://pandas.pydata.org/docs/)
 
 ¡Disfruta explorando el mundo del **web scraping académico**! 🌟
 
