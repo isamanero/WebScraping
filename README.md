@@ -65,7 +65,7 @@ Para poder ejecutar los notebooks y replicar los ejemplos de este repositorio, e
 
 ### 📥 Clonar el repositorio
 
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/isamanero/WebScraping.git)
 cd tu-repositorio
 
 ### 📦 Instalación de dependencias
