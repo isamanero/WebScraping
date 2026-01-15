@@ -65,7 +65,6 @@ Para poder ejecutar los notebooks y replicar los ejemplos de este repositorio, e
 
 ### 📥 Clonar el repositorio
 
-```bash
 git clone https://github.com/tu-usuario/tu-repositorio.git
 cd tu-repositorio
 
