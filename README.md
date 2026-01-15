@@ -22,20 +22,14 @@ Bienvenid@ a este repositorio de **web scraping**, desarrollado **exclusivamente
 
 ## 📂 Estructura del repositorio
 
-├─ files/ ← CSVs originales y usados en los notebooks
-
-├─ img/ ← Imágenes usadas (IA) de forma estética en los notebooks
-
-├─ Notebooks/ ← Tres notebooks:
-
-    ├─ WS_smartphones.ipynb
-   
-    ├─ WS_FAO.ipynb
-   
-    └─ WS_Pixar.ipynb
-
-├─ presentacion.pdf ← Breve presentación de contexto de la tutoría
-
+├─ files/ ← CSVs originales y usados en los notebooks  
+├─ img/ ← Imágenes usadas (IA) de forma estética en los notebooks  
+├─ Notebooks/ ← Tres notebooks:  
+│   ├─ WS_smartphones.ipynb  
+│   ├─ WS_FAO.ipynb  
+│   └─ WS_Pixar.ipynb  
+├─ presentacion.pdf ← Breve presentación de contexto de la tutoría  
+├─ requirements.txt ← Librerías necesarias para replicar los notebooks  
 └─ README.md ← Este archivo
 
 ---
@@ -47,17 +41,55 @@ Bienvenid@ a este repositorio de **web scraping**, desarrollado **exclusivamente
 
 **Mini-esquema de uso:**
 
-| Librería       | Mejor uso | Ventaja principal                        |
-|----------------|-----------|-----------------------------------------|
-| Selenium 🚀    | Páginas dinámicas, JavaScript | Permite simular navegador completo |
-| BeautifulSoup 🍵 | HTML estático                | Rápido y simple para extraer contenido |
+| Librería        | Mejor uso                         | Ventaja principal                    |
+|-----------------|----------------------------------|--------------------------------------|
+| Selenium 🚀     | Páginas dinámicas, JavaScript     | Simula un navegador completo         |
+| BeautifulSoup 🍵| HTML estático                     | Rápido y simple para extraer datos   |
 
 ---
 
 ## ⚠️ Nota importante
 
 Todos los scrapes se realizaron de forma **ética y responsable**, únicamente con **propósitos educativos**.
+
 ---
+
+## 🔁 Requisitos para replicar este proyecto
+
+Para poder ejecutar los notebooks y replicar los ejemplos de este repositorio, es necesario contar con lo siguiente:
+
+### 🖥 Requisitos del sistema
+- **Python 3.9 o superior**  
+- **Google Chrome** instalado  
+- Conexión a internet  
+
+### 📥 Clonar el repositorio
+
+```bash
+git clone https://github.com/tu-usuario/tu-repositorio.git
+cd tu-repositorio
+
+### 📦 Instalación de dependencias
+
+Este proyecto incluye un archivo `requirements.txt` con todas las librerías necesarias.
+
+pip install -r requirements.txt
+
+💡 Si usas Jupyter Notebook o VS Code, reinicia el kernel después de la instalación.
+
+### 📚 Documentación oficial de las librerías
+
+- **Selenium**  
+  [https://www.selenium.dev/documentation/](https://www.selenium.dev/documentation/)
+
+- **webdriver-manager**  
+  [https://github.com/SergeyPirogov/webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager)
+
+- **BeautifulSoup (bs4)**  
+  [https://www.crummy.com/software/BeautifulSoup/bs4/doc/](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
+- **Pandas**  
+  [https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/)
 
 ¡Disfruta explorando el mundo del **web scraping académico**! 🌟
 
