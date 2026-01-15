@@ -34,10 +34,11 @@ Bienvenid@ a este repositorio de **web scraping**, desarrollado **exclusivamente
 
 ---
 
-## ⚙️ Librerías utilizadas
+## ⚙️ Librerías principales utilizadas en el proceso de WebScraping
 
 - **Selenium** 🚀: Ideal para interactuar con páginas dinámicas, hacer clicks, scroll y navegación avanzada.  
-- **BeautifulSoup** 🍵: Ideal para parsear HTML estático y extraer información de forma rápida y sencilla.  
+- **BeautifulSoup** 🍵: Ideal para parsear HTML estático y extraer información de forma rápida y sencilla.
+- **webdriver-manager** ⚙️: Gestiona automáticamente los drivers de Selenium (ChromeDriver, GeckoDriver, etc.), evitando descargas y actualizaciones manuales.
 
 **Mini-esquema de uso:**
 
