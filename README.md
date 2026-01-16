@@ -38,7 +38,6 @@ Bienvenid@ a este repositorio de **web scraping**, desarrollado **exclusivamente
 
 - **Selenium** 🚀: Ideal para interactuar con páginas dinámicas, hacer clicks, scroll y navegación avanzada.  
 - **BeautifulSoup** 🍵: Ideal para parsear HTML estático y extraer información de forma rápida y sencilla.
-- **webdriver-manager** ⚙️: Gestiona automáticamente los drivers de Selenium (ChromeDriver, GeckoDriver, etc.), evitando descargas y actualizaciones manuales.
 
 **Mini-esquema de uso:**
 
@@ -84,7 +83,7 @@ pip install -r requirements.txt
 
 💡 Si usas Jupyter Notebook o VS Code, reinicia el kernel después de la instalación.
 
-### 📚 Documentación oficial de las librerías
+### 📚 Documentación oficial de las librerías/paquetes
 
 - [**Selenium**](https://www.selenium.dev/documentation/)
 - [**webdriver-manager**](https://github.com/SergeyPirogov/webdriver_manager)
